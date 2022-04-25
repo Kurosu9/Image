@@ -4,8 +4,6 @@ import os
 for k in os.listdir('.'):
     if k.endswith('.jpg') or k.endswith('.png'):
         i = Image.open(k)
-        w = Image.open(k)
-        width, height = w.size
         fn, flext = os.path.splitext(k)
 
         # Watermark
