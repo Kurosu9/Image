@@ -1,4 +1,4 @@
-# ___This code was created for editing images. My code is long, I wanted you to see the photos in a separate edit. I have 5 folders with photos there.___ #
+# ___This code was created for editing Images. My code is long, I wanted you to see the photos in a separate edit. I have 5 folders with photos there.___ #
 ### 1. ___"1_crops_IMG"___ This folder contains photos resized to 1080x1080. ###
 ### 2. ___"2_filters_IMG"___ This folder contains photos with a changed filter. ###
 ### 3. ___"3_black_white_IMG"___ This folder contains photos in black and white format. ###
